@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mcorusa/qr-code-card)
-- Live Site URL: [Add live site URL here](https://mcorusa.github.io/qr-code-card/)
+- Solution URL: [https://github.com/mcorusa/qr-code-card](https://github.com/mcorusa/qr-code-card)
+- Live Site URL: [https://mcorusa.github.io/qr-code-card/](https://mcorusa.github.io/qr-code-card/)
 
 ## My process
 
